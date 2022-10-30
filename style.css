@@ -1,0 +1,53 @@
+html {
+  box-sizing: content-box;
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: black;
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  display: inline-block;
+  margin: 20px;
+}
+
+.nav_link {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.logo {
+  color: white;
+  display: inline-block;
+  border: 1px solid #fff;
+  padding: 5px;
+}
+
+.title {
+  text-align: center;
+}
+
+.first-section {
+  width: 300px;
+  margin-left: 400px;
+  margin-top: 100px;
+  display: inline-block;
+}
+
+.firstlist {
+  margin: 10px 0;
+}
+
+.list {
+  border: 2px solid #000;
+  border-radius: 20px;
+}
